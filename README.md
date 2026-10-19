@@ -1,3 +1,3 @@
 ### Hi! I'm Berend 👋
 
-I'm a fourth-year PhD candidate at CWI and VU Amsterdam working on mathematical optimization problems. My research is about robust, effective and adaptable ship design. Check out the repositories below for some of my work.
+I just submitted my PhD thesis at Vrije Universiteit (VU) Amsterdam and now a postdoctoral fellow at NHH in Bergen (Norway). My research is mostly about decision-making under uncertainty. Check out the repositories below for some of my work.
